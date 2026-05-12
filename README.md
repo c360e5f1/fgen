@@ -1,6 +1,6 @@
 # fgen.ps1
 
-**Generate large quantities of random test files**
+**PowerShell script that generates any number of sparse, ascii, or binary files of arbitrary size.**
 
 ## Synopsis
 
