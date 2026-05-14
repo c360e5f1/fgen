@@ -1,6 +1,6 @@
 # fgen.ps1
 
-**PowerShell script that generates any number of sparse, text, or binary files of arbitrary size.**
+**PowerShell script that generates any number of sparse, text, or binary files of arbitrary size. This tool was created with the help of generative AI.**
 
 ## Synopsis
 
